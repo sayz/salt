@@ -1,5 +1,6 @@
 include:
  - google-chrome
+ - oh-my-zsh
 
 first-init-pkgs:
  pkg.installed:
@@ -7,3 +8,4 @@ first-init-pkgs:
     - mc
     - vlc
     - vim
+    - zsh
